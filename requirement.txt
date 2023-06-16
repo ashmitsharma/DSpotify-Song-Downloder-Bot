@@ -1,0 +1,9 @@
+spotdl
+pytest-shutil
+uuid
+beautifulsoup4
+requests
+python-telegram-bot
+asyncio
+datetime
+pytz
